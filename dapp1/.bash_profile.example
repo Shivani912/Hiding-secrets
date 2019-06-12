@@ -1,0 +1,6 @@
+# lab example
+export PK_GLOBAL=''
+export SOME_PATH=''
+export DB_URL=''
+export AWS_ACCESS_KEY_ID=''
+export AWS_SECRET_KEY=''
